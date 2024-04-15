@@ -32,6 +32,8 @@ SELECT * FROM Forest_Area
 SELECT * FROM Land_Area
 SELECT * FROM Region
 ```
+![IMPORTED DATASET](https://github.com/Luchytonia/DEFORESTATION/assets/54556297/e89f69a4-6c5a-4acf-b968-4b1872bf94b1)
+
 we check for null values
 ```
 SELECT forest_area_sqkm FROM Forest_Area WHERE forest_area_sqkm IS NULL;
