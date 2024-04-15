@@ -134,6 +134,8 @@ After the data analysis, I observed that
 ## Limitation
 Our dataset had so many null values both in land area and forest area which was filled yp with average to enable us get the ddesired result. we had outliers in region as world was written as country name. country like afghanistan was captured in the dataset as countries involved in deforestation but a proper data analysis showed that there was no change in their deforestation data from 1990 to 2016
 
+Click [here](#C:\Users\USER\Desktop\Data Analytics class\SQL\MY PROJECT.sql) to view the full project
+
 
 
 
